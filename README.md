@@ -4,7 +4,7 @@
 
 ![Repo size](https://img.shields.io/github/repo-size/samkiyya/alx-backend-javascript)
 ![Repo License](https://img.shields.io/github/license/samkiyya/alx-backend-javascript.svg)
-![Latest commit](https://img.shields.io/github/last-commit/samkiyya/alx-backend-javascript/main?style=round-square)
+![Latest commit](https://img.shields.io/github/last-commit/samkiyya/alx-backend-javascript/master?style=round-square)
 
 ## Description
 
